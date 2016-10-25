@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.version      = "0.2.2"
   s.summary      = "Pinterest inspired layout for UICollectionViews written in Swift"
   # s.description  = <<-DESC
-  s.homepage     = "https://github.com/ecerney/CollectionViewWaterfallLayout"
+  s.homepage     = "https://github.com/bati668/CollectionViewWaterfallLayout"
   s.screenshots  = "https://raw.githubusercontent.com/ecerney/CollectionViewWaterfallLayout/master/Screenshots/RealWorldExample.png", "https://raw.githubusercontent.com/ecerney/CollectionViewWaterfallLayout/master/Screenshots/DemoExample.png"
 
 
